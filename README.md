@@ -1,4 +1,5 @@
 <h1 align="center">GPT Computer Agent</h1>
+<h2 align="center">Intelligence development framework</h2>
 <br>
 <p align="center">
 
