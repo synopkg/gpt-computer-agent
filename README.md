@@ -1,21 +1,4 @@
-<h1 align="center">GPT Computer Agent</h1>
-<h2 align="center">Intelligence development framework</h2>
-<br>
-<p align="center">
-
-  <a href="https://docs.gca.dev">
-    <img src="https://github.com/user-attachments/assets/c60562bf-540e-47d9-b578-994285071128" width="250">
-  </a>
-  .
-  <a href="https://github.com/KhulnaSoft/gpt-computer-agent/releases/latest/download/gpt-computer-agent-openai.dmg">
-    <img src="https://github.com/user-attachments/assets/a0475f31-9dfd-4a0c-91b0-7ae128c3c773" width="250">
-  </a>
-  .
-  <a href="https://github.com/KhulnaSoft/gpt-computer-agent/releases/latest/download/gpt-computer-agent-openai.exe">
-    <img src="https://github.com/user-attachments/assets/c94139fd-609c-4780-9541-6e9e01dd0e47" width="250">
-  </a>
-
-</p>
+<h1 align="center">GPT Computer Agent</h1> <h2 align="center">An Intelligence Development Framework</h2> <p align="center"> <a href="https://docs.gca.dev"> <img src="https://github.com/user-attachments/assets/c60562bf-540e-47d9-b578-994285071128" width="200"> </a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/KhulnaSoft/gpt-computer-agent/releases/latest/download/gpt-computer-agent-openai.dmg"> <img src="https://github.com/user-attachments/assets/a0475f31-9dfd-4a0c-91b0-7ae128c3c773" width="200"> </a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/KhulnaSoft/gpt-computer-agent/releases/latest/download/gpt-computer-agent-openai.exe"> <img src="https://github.com/user-attachments/assets/c94139fd-609c-4780-9541-6e9e01dd0e47" width="200"> </a> </p> <p align="center"> <a href="https://www.producthunt.com/posts/gpt-computer-agent?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-gpt&#0045;computer&#0045;assistant" target="_blank"> <img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=465468&theme=dark&period=daily" width="200" height="54" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://discord.gg/qApFmWMt8x"> <img alt="Join Discord" src="https://img.shields.io/badge/Discord-Join?style=social&logo=discord" width="140"> </a> &nbsp;&nbsp;&nbsp; <a href="https://x.com/GPTCompAsst"> <img alt="Follow on X" src="https://img.shields.io/badge/X_App-Follow?style=social&logo=x" width="140"> </a> </p> <p align="center"> <strong>An intelligent development framework for creating AI-powered assistants and tools.</strong> </p> <p align="center"> <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg" alt="Made_with_python"> </a> &nbsp;&nbsp; <img src="https://static.pepy.tech/personalized-badge/gpt-computer-agent?period=total&units=international_system&left_color=grey&right_color=blue&left_text=PyPI%20Downloads" alt="pypi_downloads"> </p>
 
   <p align="center">
     <a href="https://www.producthunt.com/posts/gpt-computer-agent?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-gpt&#0045;computer&#0045;assistant" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=465468&theme=dark&period=daily" alt="GPT&#0032;Computer&#0032;Assistant - Create&#0032;intelligence&#0032;for&#0032;your&#0032;products | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
